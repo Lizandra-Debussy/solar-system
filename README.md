@@ -27,4 +27,5 @@ Desenvolver uma aplicação em React com criação de componentes de classe e pa
 
 ## Preview:
 
+
 ![](public/Projeto_Sistema_Solar.gif)
