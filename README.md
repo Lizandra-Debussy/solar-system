@@ -4,7 +4,7 @@ Projeto desenvolvido durante o módulo de Front-End - Curso de Desenvolvimento W
 
 ## Objetivo
 
-Desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simulará uma visualização do Sistema Solar, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
+Desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simula uma visualização do Sistema Solar, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
 
 ## Habilidades
 
